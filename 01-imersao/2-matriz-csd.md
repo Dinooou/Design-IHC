@@ -4,7 +4,8 @@ A Matriz CSD organiza as informações obtidas no briefing com o cliente (`1-bri
 
 ## Matriz
 
-![Matriz CSD](../img/matriz-csd.png)
+![Matriz CSD](../imagens/matriz-csd.png)
+![Matriz CSD](../imagens/matriz-csd2.png)
 
 | Nº | Certezas (C) | Suposições (S) | Dúvidas (D) |
 |---|---|---|---|
