@@ -90,4 +90,4 @@ A entrevista evidenciou a necessidade de facilitar a divulgação dos imóveis, 
 | Participantes do cliente | Casal de locadores de imóveis residenciais de Itacoatiara, com cerca de 8 a 10 anos de atuação (identidade preservada: nomes e endereços omitidos) |
 | Consentimento | Os participantes foram informados da finalidade acadêmica e consentiram com o registro e o uso das respostas neste trabalho |
 
-![Registro da realização do briefing com os locadores (identidade preservada)](foto-comprovacao.jpg)
+![Registro da realização do briefing com os locadores (identidade preservada)](../imagens/foto-comprovacao.jpg)
