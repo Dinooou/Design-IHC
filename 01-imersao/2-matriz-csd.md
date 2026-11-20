@@ -46,5 +46,3 @@ As suposições e dúvidas voltadas aos estudantes viraram perguntas do formulá
 | S14 / D14 (meio de comunicação) | 13. Preferência para negociar com o proprietário |
 | S15 / D15 e S16 / D16 (documentos e contato de familiar) | 12. O que aceitaria informar para criar conta |
 | S18 (vaga descoberta por ligação) | 6. Vaga descoberta só depois de ligar ou mandar mensagem |
-
-**Itens que a pesquisa com estudantes não cobriu:** S1 / D1, S6 / D6, S7 / D7, S9 / D9, S13 / D13, S17 / D17 e S19 / D19. Eles dependem dos proprietários, de perguntas que saíram do formulário enxuto ou de análise jurídica (LGPD), e seguem em aberto. O resultado de cada item está na seção 2.3 de `3-pesquisa-com-usuario.md`.
