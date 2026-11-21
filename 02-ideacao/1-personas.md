@@ -25,7 +25,7 @@ Os nomes são fictícios, e as personas resumem padrões das respostas, não pes
 
 ## Persona 1: Davi Nascimento
 
-![Persona Davi Nascimento](img/persona-1-davi.png)
+![Persona Davi Nascimento](img/Persona_Davi_Nascimento.png)
 
 **Dados que sustentam a persona (8 respondentes de fora de Itacoatiara):**
 - Preço foi apontado como dificuldade por 8 de 8, e segurança foi critério de escolha para 8 de 8.
@@ -48,7 +48,7 @@ Os nomes são fictícios, e as personas resumem padrões das respostas, não pes
 
 ## Persona 2: Isabela Cunha
 
-![Persona Isabela Cunha](img/persona-2-isabela.png)
+![Persona Isabela Cunha](img/Persona_Isabela_Cunha.png)
 
 **Dados que sustentam a persona (4 respondentes de Itacoatiara):**
 - Poucas opções e poucas fotos ou informações foram apontadas por 4 de 4.
@@ -70,7 +70,7 @@ Os nomes são fictícios, e as personas resumem padrões das respostas, não pes
 
 ## Persona 3: Thiago Moreira
 
-![Persona Thiago Moreira](img/persona-3-thiago.png)
+![Persona Thiago Moreira](img/Persona_Thiago_Moreira.png)
 
 **Dados que sustentam a persona (1 participante, por entrevista e formulário):**
 - Faixa etária 21–23 anos, de outro estado, mora hoje com a família.
@@ -96,7 +96,7 @@ Os nomes são fictícios, e as personas resumem padrões das respostas, não pes
 
 ## Persona 4: Antônio Ribeiro
 
-![Persona Antônio Ribeiro](img/persona-4-antonio.png)
+![Persona Antônio Ribeiro](img/Persona_Antonio_Ribeiro.png)
 
 **Dados que sustentam a persona (briefing com um casal de locadores, 15/11 e 16/11/2026):**
 - Aluga kitnets em Itacoatiara há cerca de 8 a 10 anos e tem três imóveis disponíveis para locação.
