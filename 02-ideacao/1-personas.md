@@ -6,9 +6,8 @@ As quatro personas abaixo foram construídas a partir do briefing com o cliente 
 
 | Fonte | Participantes | Data |
 |---|---|---|
-| Formulário online (perfil, busca por moradia, preferências, contrato e confiança) | 12 estudantes | 17/11/2026 |
-| Entrevista e formulário com participante com necessidade de acessibilidade | 1 estudante | 17/11/2026 |
-| Mini formulário (experiência com tecnologia, dimensões E1 a E7 da PATHY), enviado às mesmas pessoas | 13 estudantes | 18/11/2026 |
+| Formulário online (perfil, busca por moradia, preferências, contrato, confiança e experiência com tecnologia) | 12 estudantes | 17/11 e 18/11/2026 |
+| Entrevista e formulário com participante com necessidade de acessibilidade | 1 estudante | 17/11 e 18/11/2026 |
 | Briefing com o cliente | 1 casal de locadores | 15/11 e 16/11/2026 |
 
 **Como as personas foram agrupadas:**
@@ -20,7 +19,7 @@ As quatro personas abaixo foram construídas a partir do briefing com o cliente 
 | Thiago Moreira | Estudante com necessidade de acessibilidade (baixa visão e dificuldade motora nas mãos) | 1 participante |
 | Antônio Ribeiro | Locador de imóveis residenciais em Itacoatiara | Briefing com 1 casal de locadores |
 
-Os nomes são fictícios, e as personas resumem padrões das respostas, não pessoas específicas. Cada afirmação do cartão vem das respostas do formulário, do mini formulário, da entrevista de acessibilidade ou do briefing, com as exceções indicadas nas limitações: o nível de experiência com tecnologia (Q3) dos estudantes é uma classificação da equipe, e a persona do locador tem idade fictícia e duas deduções. Nas dimensões E1 a E7 dos estudantes, cada cartão traz a resposta predominante do grupo.
+Os nomes são fictícios, e as personas resumem padrões das respostas, não pessoas específicas. Cada afirmação do cartão vem das respostas do formulário, da entrevista de acessibilidade ou do briefing, com as exceções indicadas nas limitações: o nível de experiência com tecnologia (Q3) dos estudantes é uma classificação da equipe, e a persona do locador tem idade fictícia e duas deduções. Nas dimensões E1 a E7 dos estudantes, cada cartão traz a resposta predominante do grupo.
 
 ---
 
@@ -36,8 +35,6 @@ Os nomes são fictícios, e as personas resumem padrões das respostas, não pes
 - Negociação: WhatsApp (4), chat do aplicativo (3) e ligação (1).
 - Ao criar conta: comprovante de estudante (6), CPF (4), contato de familiar (2) e nenhum deles (1).
 - Compara os imóveis pelo custo mensal total (5) ou só pelo valor do aluguel (3).
-
-**Experiência com tecnologia (mini formulário, 18/11/2026):**
 - E1: nenhuma parte em específico.
 - E2: não gosta de ter que verificar casas novas todos os dias.
 - E3: usa o celular.
@@ -60,8 +57,6 @@ Os nomes são fictícios, e as personas resumem padrões das respostas, não pes
 - Informações indispensáveis: fotos de todos os cômodos, endereço e mapa e valor total mensal (4 de 4); contato do proprietário (3 de 4).
 - Negociação pelo WhatsApp (4 de 4).
 - Confiança numa plataforma que registre as condições da locação: média 2,5 de 5, a mais baixa entre os grupos (média dos 12 respondentes do formulário: 3,1).
-
-**Experiência com tecnologia (mini formulário, 18/11/2026):**
 - E1: gosta de olhar os grupos de WhatsApp, por ser prático.
 - E2: nenhuma parte em específico.
 - E3: usa o celular e o laptop.
@@ -88,8 +83,6 @@ Os nomes são fictícios, e as personas resumem padrões das respostas, não pes
 - Ao criar conta: aceitaria CPF e contato de um familiar, e o comprovante de estudante somente se necessário.
 - Negociação pelo WhatsApp; canal de busca usado: sites.
 - As recomendações de acessibilidade do cartão (texto ampliável, alto contraste, botões grandes e compatibilidade com leitor de tela) decorrem das necessidades relatadas e ainda precisam ser validadas com usuários.
-
-**Experiência com tecnologia (mini formulário, 18/11/2026):**
 - E1: nenhuma parte em específico.
 - E2: nenhuma parte em específico.
 - E3: usa o celular e o laptop.
@@ -122,15 +115,3 @@ Os nomes são fictícios, e as personas resumem padrões das respostas, não pes
 - E3 (dispositivo): deduzido do relato de que envia fotos e informações aos interessados.
 - E7 (interação social): deduzido do relato sobre indicações entre locadores e do acolhimento aos inquilinos.
 - Q2, E2, E4, E5 e E6: não foram abordados no briefing e aparecem como "sem dado".
-
----
-
-## Limitações
-
-- **Amostra pequena:** 13 participantes. As personas indicam tendências, e os números por grupo (8, 4 e 1) não permitem generalizar.
-- **Respostas predominantes:** nas dimensões E1 a E7, os grupos de 8 e de 4 participantes aparecem com a resposta predominante, sem a distribuição das respostas individuais.
-- **Nível de experiência (Q3):** é uma classificação da equipe, e não uma autodescrição dos participantes. Os dados do mini formulário não separam por completo os níveis: Isabela e Thiago têm respostas parecidas (celular e laptop, aprendem pesquisando e mexendo), e as preferências por atalhos (Davi) e por passo a passo (Thiago) não seguem a ordem de experiência adotada. As respostas foram mantidas como obtidas.
-- **Persona do locador:** baseada em um único casal de locadores. Os campos Q2, E2, E4, E5 e E6 não foram perguntados e ficaram sem dado, e a idade e as deduções de E3 e E7 estão indicadas no cartão. Vale confirmar esses pontos com o casal.
-- **Estudante:** a profissão e a escolaridade (Q1 e Q2) partem do perfil-alvo da pesquisa, que foi divulgada para estudantes, e não de perguntas diretas.
-- **Escalas de 1 a 5:** foram lidas como 1 = menor dificuldade ou confiança e 5 = maior dificuldade ou confiança.
-- **Formulário:** a pergunta de itens mais importantes pedia "até 4", mas três respondentes marcaram mais de 4 itens, e uma resposta trouxe a opção "Opção 6", fruto de um rótulo mal configurado no formulário. Essa opção foi ignorada na contagem, e os demais itens da resposta foram contados normalmente.
