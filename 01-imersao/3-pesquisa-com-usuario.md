@@ -2,9 +2,9 @@
 
 ## 1. Roteiro utilizado
 
-A pesquisa complementa a visão dos locadores obtida no briefing, ouvindo estudantes e outros interessados em moradia, e investiga as suposições e dúvidas da Matriz CSD (`2-matriz-csd.md`). Foram aplicados três instrumentos: um formulário online, uma entrevista com um participante com necessidade de acessibilidade e um mini formulário sobre experiência com tecnologia.
+A pesquisa complementa a visão dos locadores obtida no briefing, ouvindo estudantes e outros interessados em moradia, e investiga as suposições e dúvidas da Matriz CSD (`2-matriz-csd.md`). Foram aplicados dois instrumentos: um formulário online e uma entrevista com um participante com necessidade de acessibilidade.
 
-### 1.1 Formulário online (17/11/2026)
+### 1.1 Formulário online (17/11)
 
 O formulário abre com um texto que contextualiza a busca por moradia em Itacoatiara, explica que o grupo desenvolve uma plataforma digital de locação mensal de imóveis residenciais, convida à participação (com ou sem experiência prévia na busca) e informa que não há respostas certas ou erradas. Não pede nome, e-mail nem telefone.
 
@@ -33,21 +33,19 @@ O formulário abre com um texto que contextualiza a busca por moradia em Itacoat
 12. Para criar conta, o que você aceitaria informar? *(caixas de seleção: CPF, Comprovante de estudante, Contato de um familiar, Nenhum deles)*
 13. Para negociar com o proprietário, você prefere. *(WhatsApp, Chat do aplicativo, Ligação)*
 
-### 1.2 Entrevista com participante com necessidade de acessibilidade (17/11/2026)
+**Experiência com tecnologia**
 
-Um participante com baixa visão e dificuldade motora nas mãos respondeu às mesmas 13 perguntas por meio de entrevista, junto com o formulário.
+14. Quais partes das aplicações que você usa para procurar moradia você gosta? Por quê?
+15. Quais partes você não gosta? Por quê?
+16. Em quais dispositivos você usa essas aplicações?
+17. Como você aprende a usar uma aplicação (perguntando a outras pessoas, pesquisando, lendo manuais, mexendo na aplicação)?
+18. Você prefere fazer as coisas passo a passo ou usar atalhos?
+19. Você lembra melhor das coisas vendo imagens e representações gráficas, lendo texto ou ouvindo áudio?
+20. No mundo virtual, você gosta de interação social e de compartilhar acontecimentos ou prefere se manter reservado?
 
-### 1.3 Mini formulário sobre experiência com tecnologia (17/11/2026)
+### 1.2 Entrevista com participante com necessidade de acessibilidade (17/11)
 
-Enviado às mesmas pessoas que responderam ao formulário, com perguntas baseadas nas dimensões de experiência da técnica PATHY:
-
-- E1. Quais partes das aplicações que você usa para procurar moradia você gosta? Por quê?
-- E2. Quais partes você não gosta? Por quê?
-- E3. Em quais dispositivos você usa essas aplicações?
-- E4. Como você aprende a usar uma aplicação (perguntando a outras pessoas, pesquisando, lendo manuais, mexendo na aplicação)?
-- E5. Você prefere fazer as coisas passo a passo ou usar atalhos?
-- E6. Você lembra melhor das coisas vendo imagens e representações gráficas, lendo texto ou ouvindo áudio?
-- E7. No mundo virtual, você gosta de interação social e de compartilhar acontecimentos ou prefere se manter reservado?
+Um participante com baixa visão e dificuldade motora nas mãos respondeu às mesmas perguntas por meio de entrevista, junto com o formulário.
 
 ---
 
@@ -85,7 +83,7 @@ A pesquisa teve **13 participantes** (12 respostas ao formulário e 1 entrevista
 - Os 9 participantes de fora de Itacoatiara citaram o preço como principal dificuldade (8 de 9), e poucas opções (2), poucas fotos ou informações (1) e não poder visitar antes (1) apareceram pouco.
 - Os 4 participantes de Itacoatiara apontaram poucas opções e poucas fotos ou informações (4 de 4) e metade (2 de 4) descobriu muitas vezes que a vaga não estava disponível só depois do contato.
 
-**Experiência com tecnologia (mini formulário, respostas predominantes por grupo)**
+**Experiência com tecnologia (respostas predominantes por grupo)**
 
 | | Estudantes de fora (8) | Estudantes de Itacoatiara (4) | Participante com acessibilidade (1) |
 |---|---|---|---|
@@ -142,7 +140,7 @@ As situações abaixo se referem às suposições (S). As dúvidas (D) de cada l
 
 **Limitações**
 - A amostra é pequena (13 participantes), com poucos participantes de Itacoatiara (4) e apenas 1 com necessidade de acessibilidade, e foi composta por conveniência.
-- As respostas do mini formulário foram consolidadas pelo grupo, e as dimensões E1 a E7 aparecem como respostas predominantes.
+- As respostas sobre experiência com tecnologia (perguntas 14 a 20) foram consolidadas pelo grupo e aparecem como respostas predominantes por grupo.
 - O formulário não perguntou sobre desistências, energia, câmeras, menores de idade, privacidade nem segurança em plataforma exclusiva. Esses pontos, e todas as questões dos proprietários, seguem em aberto.
 - Na pergunta de itens mais importantes ("até 4"), 3 participantes marcaram mais de 4 itens, e uma resposta trouxe a opção "Opção 6", fruto de um rótulo mal configurado no formulário, ignorada na contagem.
 - A dificuldade com contratos e a confiança são autopercepções, medidas em escala de 1 a 5.
@@ -153,28 +151,23 @@ As situações abaixo se referem às suposições (S). As dúvidas (D) de cada l
 
 | Instrumento | Data | Participantes | Formato |
 |---|---|---|---|
-| Formulário online | 17/11/2026 | 12 estudantes | Google Forms |
-| Entrevista com participante com necessidade de acessibilidade | 17/11/2026 | 1 estudante | Entrevista, junto com o formulário |
-| Mini formulário (E1 a E7) | 18/11/2026 | 13 estudantes (mesmas pessoas) | Google Forms |
+| Formulário online | 17/11 e 18/11/2026 | 12 estudantes | Google Forms |
+| Entrevista com participante com necessidade de acessibilidade | 17/11 e 18/11/2026 | 1 estudante | Entrevista, junto com o formulário |
 
 A identidade dos participantes foi preservada: os instrumentos não pedem nome, e-mail nem telefone.
 
 **Resumo das respostas do formulário**
 
-![Resumo das respostas do formulário](../img/pesquisa-formulario-resumo.png)
+![Resumo das respostas do formulário](../imagens/pesquisa-formulario-resumo.png)
 
 **Aba de respostas do formulário (número de respostas recebidas)**
 
-![Aba de respostas do formulário](../img/pesquisa-formulario-respostas.png)
-
-**Resumo das respostas do mini formulário**
-
-![Resumo das respostas do mini formulário](../img/pesquisa-mini-formulario-resumo.png)
+![Aba de respostas do formulário](../imagens/pesquisa-formulario-respostas.png)
 
 **Divulgação da pesquisa**
 
-![Divulgação da pesquisa](../img/pesquisa-divulgacao.png)
+![Divulgação da pesquisa](../imagens/pesquisa-divulgacao.png)
 
 **Registro da entrevista com o participante com necessidade de acessibilidade**
 
-![Registro da entrevista de acessibilidade](../img/pesquisa-acessibilidade-registro.png)
+![Registro da entrevista de acessibilidade](../imagens/pesquisa-acessibilidade-registro.png)
