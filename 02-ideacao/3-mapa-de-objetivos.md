@@ -4,7 +4,7 @@ O mapa de objetivos representa graficamente os principais objetivos dos usuário
 
 ## Mapa
 
-![Mapa de objetivos](../img/mapa-objetivos.jpeg)
+![Mapa de objetivos](../imagens/mapa-objetivos.jpeg)
 
 ## Legenda
 
