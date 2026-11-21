@@ -159,6 +159,10 @@ A identidade dos participantes foi preservada: os instrumentos não pedem nome, 
 **Resumo das respostas do formulário**
 
 ![Resumo das respostas do formulário](../imagens/pesquisa-formulario-resumo.png)
+![Resumo das respostas do formulário](../imagens/pesquisa-formulario-resumo2.png)
+![Resumo das respostas do formulário](../imagens/pesquisa-formulario-resumo3.png)
+![Resumo das respostas do formulário](../imagens/pesquisa-formulario-resumo4.png)
+![Resumo das respostas do formulário](../imagens/pesquisa-formulario-resumo5.png)
 
 **Aba de respostas do formulário (número de respostas recebidas)**
 
@@ -167,7 +171,3 @@ A identidade dos participantes foi preservada: os instrumentos não pedem nome, 
 **Divulgação da pesquisa**
 
 ![Divulgação da pesquisa](../imagens/pesquisa-divulgacao.png)
-
-**Registro da entrevista com o participante com necessidade de acessibilidade**
-
-![Registro da entrevista de acessibilidade](../imagens/pesquisa-acessibilidade-registro.png)
