@@ -23,6 +23,7 @@ Os HTAs (Hierarchical Task Analysis) modelam as tarefas dos usuários a partir d
 **HTA**
 
 ![HTA: Criar perfil de locatário](../imagens/hta-criar-perfil-locatario.png)
+*Clique na imagem para ampliar.*
 
 ### Descrição
 
@@ -63,6 +64,7 @@ Os HTAs (Hierarchical Task Analysis) modelam as tarefas dos usuários a partir d
 **HTA**
 
 ![HTA: Criar perfil de locador](../imagens/hta-criar-perfil-locador.png)
+*Clique na imagem para ampliar.*
 
 ### Descrição
 
@@ -99,6 +101,7 @@ Os HTAs (Hierarchical Task Analysis) modelam as tarefas dos usuários a partir d
 **HTA**
 
 ![HTA: Cadastrar imóvel](../imagens/hta-cadastrar-imovel.png)
+*Clique na imagem para ampliar.*
 
 ### Descrição
 
@@ -141,6 +144,7 @@ Os HTAs (Hierarchical Task Analysis) modelam as tarefas dos usuários a partir d
 **HTA**
 
 ![HTA: Buscar um imóvel disponível](../imagens/hta-buscar-imovel.png)
+*Clique na imagem para ampliar.*
 
 ### Descrição
 
@@ -177,6 +181,7 @@ Os HTAs (Hierarchical Task Analysis) modelam as tarefas dos usuários a partir d
 **HTA**
 
 ![HTA: Alugar um imóvel disponível](../imagens/hta-alugar-imovel.png)
+*Clique na imagem para ampliar.*
 
 ### Descrição
 
