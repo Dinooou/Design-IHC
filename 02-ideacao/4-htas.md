@@ -18,11 +18,11 @@ Os HTAs (Hierarchical Task Analysis) modelam as tarefas dos usuários a partir d
 
 **Objetivo no mapa**
 
-![Mapa de objetivos: Perfil de locatário](../img/mapa-perfil-locatario.png)
+![Mapa de objetivos: Perfil de locatário](../imagens/mapa-perfil-locatario.png)
 
 **HTA**
 
-![HTA: Criar perfil de locatário](../img/hta-criar-perfil-locatario.png)
+![HTA: Criar perfil de locatário](../imagens/hta-criar-perfil-locatario.png)
 
 ### Descrição
 
@@ -58,11 +58,11 @@ Os HTAs (Hierarchical Task Analysis) modelam as tarefas dos usuários a partir d
 
 **Objetivo no mapa**
 
-![Mapa de objetivos: Perfil de locador](../img/mapa-perfil-locador.png)
+![Mapa de objetivos: Perfil de locador](../imagens/mapa-perfil-locador.png)
 
 **HTA**
 
-![HTA: Criar perfil de locador](../img/hta-criar-perfil-locador.png)
+![HTA: Criar perfil de locador](../imagens/hta-criar-perfil-locador.png)
 
 ### Descrição
 
@@ -94,11 +94,11 @@ Os HTAs (Hierarchical Task Analysis) modelam as tarefas dos usuários a partir d
 
 **Objetivo no mapa**
 
-![Mapa de objetivos: Cadastrar um imóvel](../img/mapa-cadastrar-imovel.png)
+![Mapa de objetivos: Cadastrar um imóvel](../imagens/mapa-cadastrar-imovel.png)
 
 **HTA**
 
-![HTA: Cadastrar imóvel](../img/hta-cadastrar-imovel.png)
+![HTA: Cadastrar imóvel](../imagens/hta-cadastrar-imovel.png)
 
 ### Descrição
 
@@ -136,11 +136,11 @@ Os HTAs (Hierarchical Task Analysis) modelam as tarefas dos usuários a partir d
 
 **Objetivo no mapa**
 
-![Mapa de objetivos: Busca de imóveis](../img/mapa-busca-imoveis.png)
+![Mapa de objetivos: Busca de imóveis](../imagens/mapa-busca-imoveis.png)
 
 **HTA**
 
-![HTA: Buscar um imóvel disponível](../img/hta-buscar-imovel.png)
+![HTA: Buscar um imóvel disponível](../imagens/hta-buscar-imovel.png)
 
 ### Descrição
 
@@ -172,11 +172,11 @@ Os HTAs (Hierarchical Task Analysis) modelam as tarefas dos usuários a partir d
 
 **Objetivo no mapa**
 
-![Mapa de objetivos: Aluguel de imóveis](../img/mapa-aluguel-imoveis.png)
+![Mapa de objetivos: Aluguel de imóveis](../imagens/mapa-aluguel-imoveis.png)
 
 **HTA**
 
-![HTA: Alugar um imóvel disponível](../img/hta-alugar-imovel.png)
+![HTA: Alugar um imóvel disponível](../imagens/hta-alugar-imovel.png)
 
 ### Descrição
 
