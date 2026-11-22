@@ -18,7 +18,7 @@ Em todas as telas, as anotações amarelas ao lado resumem a **usabilidade** (fa
 
 ## Tela 1: Criar conta
 
-![Tela 1: Criar conta](../imagens/sketch-tela-1-criar-conta.png)
+![Tela 1: Criar conta](../imagens/Sketch-tela-1-criar-conta.png)
 
 **Elementos.** Barra com Cancelar, espaço de logo, indicador de progresso (etapa 1 de 4), escolha entre alugar e anunciar um imóvel, escolha do método de acesso (e-mail ou celular), campo de e-mail, aviso de que um código será enviado, botão Enviar código, entrada com conta Google e link para quem já tem conta.
 
@@ -34,11 +34,11 @@ Em todas as telas, as anotações amarelas ao lado resumem a **usabilidade** (fa
 
 ### Versão A: etapa final do perfil
 
-![Tela 2, versão A](../imagens/sketch-tela-2a-acessibilidade.png)
+![Tela 2, versão A](../imagens/Sketch-tela-2a-acessibilidade.png)
 
 ### Versão B: painel com prévia, disponível em qualquer etapa
 
-![Tela 2, versão B](../imagens/sketch-tela-2b-acessibilidade.png)
+![Tela 2, versão B](../imagens/Sketch-tela-2b-acessibilidade.png)
 
 **Elementos.** A versão A traz o controle do tamanho da fonte com uma prévia de texto, a escolha do contraste, a chave de compatibilidade com leitor de tela e o botão Salvar configurações, como etapa 4 de 4. A versão B acrescenta um aviso de que a tela está disponível em qualquer etapa, uma prévia com um anúncio de exemplo, botões grandes para o tamanho da fonte, a escolha do tamanho dos botões e áreas de toque, e a opção de restaurar o padrão.
 
@@ -59,11 +59,11 @@ Em todas as telas, as anotações amarelas ao lado resumem a **usabilidade** (fa
 
 ### Versão A: lista de resultados
 
-![Tela 3, versão A](../imagens/sketch-tela-3a-busca-lista.png)
+![Tela 3, versão A](../imagens/Sketch-tela-3a-busca-lista.png)
 
 ### Versão B: mapa como visão principal
 
-![Tela 3, versão B](../imagens/sketch-tela-3b-busca-mapa.png)
+![Tela 3, versão B](../imagens/Sketch-tela-3b-busca-mapa.png)
 
 **Elementos.** Em ambas, campo de região (Itacoatiara, AM), filtros de bairro, preço e tipo, alternância entre Lista e Mapa e barra de navegação (Buscar, Favoritos, Solicitações e Perfil). A versão A mostra cards com foto, tipo, bairro, distância da UFAM, valor total mensal e o que está incluso. A versão B mostra o mapa com os preços dos imóveis, a referência da UFAM e o cartão do imóvel selecionado com o botão Detalhes.
 
@@ -82,7 +82,7 @@ Em todas as telas, as anotações amarelas ao lado resumem a **usabilidade** (fa
 
 ## Tela 4: Detalhes do imóvel
 
-![Tela 4: Detalhes do imóvel](../imagens/sketch-tela-4-detalhes-imovel.png)
+![Tela 4: Detalhes do imóvel](../imagens/Sketch-tela-4-detalhes-imovel.png)
 
 **Elementos.** Fotos navegáveis, título, bairro e distância da UFAM, bloco do valor total mensal em destaque (com o detalhamento do aluguel e dos encargos), o que está incluso, características (quartos, banheiros, área e comodidades), segurança, localização, informações do locador e uma barra fixa com Demonstrar interesse e Chat. A tela é rolável e aparece inteira no sketch.
 
@@ -100,11 +100,11 @@ Em todas as telas, as anotações amarelas ao lado resumem a **usabilidade** (fa
 
 ### Versão A: cadastro em etapas
 
-![Tela 5, versão A](../imagens/sketch-tela-5a-cadastro-etapas.png)
+![Tela 5, versão A](../imagens/Sketch-tela-5a-cadastro-etapas.png)
 
 ### Versão B: página única
 
-![Tela 5, versão B](../imagens/sketch-tela-5b-cadastro-pagina-unica.png)
+![Tela 5, versão B](../imagens/Sketch-tela-5b-cadastro-pagina-unica.png)
 
 **Elementos.** A versão A mostra a etapa 5 de 6 (Valor total mensal) com a barra de progresso, o campo de valor total, a seleção do que está incluso (água, energia, internet e condomínio), os encargos e a garantia (opcionais), os botões Voltar e Prosseguir e o link para cancelar o cadastro. A versão B reúne as seções em uma só página, com as quatro primeiras completas, a seção Valor total mensal aberta, a Revisão e publicação bloqueada e o botão Publicar anúncio desabilitado.
 
