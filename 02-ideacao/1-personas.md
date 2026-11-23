@@ -6,8 +6,8 @@ As quatro personas abaixo foram construídas a partir do briefing com o cliente 
 
 | Fonte | Participantes | Data |
 |---|---|---|
-| Formulário online (perfil, busca por moradia, preferências, contrato, confiança e experiência com tecnologia) | 12 estudantes | 17/11 e 18/11/2026 |
-| Entrevista e formulário com participante com necessidade de acessibilidade | 1 estudante | 17/11 e 18/11/2026 |
+| Formulário online (perfil, busca por moradia, preferências, contrato, confiança e experiência com tecnologia) | 12 estudantes | 17/11 |
+| Entrevista e formulário com participante com necessidade de acessibilidade | 1 estudante | 17/11 |
 | Briefing com o cliente | 1 casal de locadores | 15/11 e 16/11/2026 |
 
 **Como as personas foram agrupadas:**
@@ -19,13 +19,13 @@ As quatro personas abaixo foram construídas a partir do briefing com o cliente 
 | Thiago Moreira | Estudante com necessidade de acessibilidade (baixa visão e dificuldade motora nas mãos) | 1 participante |
 | Antônio Ribeiro | Locador de imóveis residenciais em Itacoatiara | Briefing com 1 casal de locadores |
 
-Os nomes são fictícios, e as personas resumem padrões das respostas, não pessoas específicas. Cada afirmação do cartão vem das respostas do formulário, da entrevista de acessibilidade ou do briefing, com as exceções indicadas nas limitações: o nível de experiência com tecnologia (Q3) dos estudantes é uma classificação da equipe, e a persona do locador tem idade fictícia e duas deduções. Nas dimensões E1 a E7 dos estudantes, cada cartão traz a resposta predominante do grupo.
+Os nomes são fictícios, e as personas resumem padrões das respostas, não pessoas específicas. Cada afirmação do cartão vem das respostas do formulário, da entrevista de acessibilidade ou do briefing, com as exceções indicadas nos dados de cada persona: a persona do locador tem idade fictícia. Nas dimensões E1 a E7 dos estudantes, cada cartão traz a resposta predominante do grupo.
 
 ---
 
 ## Persona 1: Davi Nascimento
 
-![Persona Davi Nascimento](../imagens/persona-1)
+![Persona Davi Nascimento](../imagens/persona-1.png)
 
 **Dados que sustentam a persona (8 respondentes de fora de Itacoatiara):**
 - Preço foi apontado como dificuldade por 8 de 8, e segurança foi critério de escolha para 8 de 8.
@@ -48,7 +48,7 @@ Os nomes são fictícios, e as personas resumem padrões das respostas, não pes
 
 ## Persona 2: Isabela Cunha
 
-![Persona Isabela Cunha](../imagens/persona-2)
+![Persona Isabela Cunha](../imagens/persona-2.png)
 
 **Dados que sustentam a persona (4 respondentes de Itacoatiara):**
 - Poucas opções e poucas fotos ou informações foram apontadas por 4 de 4.
@@ -70,7 +70,7 @@ Os nomes são fictícios, e as personas resumem padrões das respostas, não pes
 
 ## Persona 3: Thiago Moreira
 
-![Persona Thiago Moreira](../imagens/persona-3)
+![Persona Thiago Moreira](../imagens/persona-3.png)
 
 **Dados que sustentam a persona (1 participante, por entrevista e formulário):**
 - Faixa etária 21–23 anos, de outro estado, mora hoje com a família.
@@ -96,7 +96,7 @@ Os nomes são fictícios, e as personas resumem padrões das respostas, não pes
 
 ## Persona 4: Antônio Ribeiro
 
-![Persona Antônio Ribeiro](../imagens/persona-4)
+![Persona Antônio Ribeiro](../imagens/persona-4.png)
 
 **Dados que sustentam a persona (briefing com um casal de locadores, 15/11 e 16/11/2026):**
 - Aluga kitnets em Itacoatiara há cerca de 8 a 10 anos e tem três imóveis disponíveis para locação.
