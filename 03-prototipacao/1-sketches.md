@@ -11,7 +11,7 @@ Em todas as telas, as anotações amarelas ao lado resumem a **usabilidade** (fa
 | 1. Criar conta | Única | Criação de perfil (Informar dados de acesso) | HTA 1 e 2, nó 1 | Davi, Isabela, Thiago e Antônio |
 | 2. Acessibilidade | A e B | Criação de perfil de locatário (Aplicar configurações de acessibilidade) | HTA 1, nó 4 | Thiago |
 | 3. Busca de imóveis | A e B | Busca de imóvel (Filtros, Resultados e Mapa) | HTA 4, nós 1 e 2 | Davi, Isabela e Thiago |
-| 4. Detalhes do imóvel | Única | Busca de imóvel (Consulta das informações e Favoritos) | HTA 4, nós 3 e 4; HTA 5, nós 1 e 2 | Davi, Isabela e Thiago |
+| 4. Detalhes do imóvel | Única | Busca de imóvel (Consulta das informações e Favoritos) e Aluguel de imóvel (Demonstrar interesse e Chat com o locador) | HTA 4, nós 3 e 4; HTA 5, nós 1 e 2 | Davi, Isabela e Thiago |
 | 5. Cadastrar imóvel | A e B | Cadastro do imóvel (Valor total mensal, Revisão e publicação) | HTA 3, nós 3 a 8 | Antônio |
 
 ---
