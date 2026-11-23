@@ -86,7 +86,7 @@ Em todas as telas, as anotações amarelas ao lado resumem a **usabilidade** (fa
 
 **Elementos.** Fotos navegáveis, título, bairro e distância da UFAM, bloco do valor total mensal em destaque (com o detalhamento do aluguel e dos encargos), o que está incluso, características (quartos, banheiros, área e comodidades), segurança, localização, informações do locador e uma barra fixa com Demonstrar interesse e Chat. A tela é rolável e aparece inteira no sketch.
 
-**MoLIC.** Corresponde à cena Consulta das informações do imóvel (características, quantidade de quartos e banheiros, características adicionais, valor, imagens com navegação entre as fotos e informações do locador) e à ação Adicionar aos favoritos, no topo da tela.
+**MoLIC.** Corresponde à cena Consulta das informações do imóvel (características, quantidade de quartos e banheiros, características adicionais, valor, imagens com navegação entre as fotos e informações do locador) e à ação Adicionar aos favoritos, no topo da tela.Os botões Demonstrar interesse e Chat correspondem às cenas Demonstrar interesse e Chat com o locador do MoLIC de aluguel.
 
 **HTA.** Nós 3 (Consultar informações do imóvel) e 4 (Adicionar à lista de favoritos) do HTA 4. Os botões Demonstrar interesse e Chat vêm dos nós 1 e 2 do HTA 5 (Alugar um imóvel disponível).
 
