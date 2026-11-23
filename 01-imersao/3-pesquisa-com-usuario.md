@@ -151,8 +151,8 @@ As situações abaixo se referem às suposições (S). As dúvidas (D) de cada l
 
 | Instrumento | Data | Participantes | Formato |
 |---|---|---|---|
-| Formulário online | 17/11 e 18/11/2026 | 12 estudantes | Google Forms |
-| Entrevista com participante com necessidade de acessibilidade | 17/11 e 18/11/2026 | 1 estudante | Entrevista, junto com o formulário |
+| Formulário online | 17/11 | 12 estudantes | Google Forms |
+| Entrevista com participante com necessidade de acessibilidade | 17/11 | 1 estudante | Entrevista, junto com o formulário |
 
 A identidade dos participantes foi preservada: os instrumentos não pedem nome, e-mail nem telefone.
 
