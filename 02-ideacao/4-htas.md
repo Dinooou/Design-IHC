@@ -29,7 +29,7 @@ Os HTAs (Hierarchical Task Analysis) modelam as tarefas dos usuários a partir d
 
 **Propósito.** Permitir que o estudante crie sua conta e seu perfil para usar a plataforma e, no caso do locatário com necessidade de acessibilidade, ajuste a interface às suas necessidades.
 
-**Tarefas e subtarefas.** A tarefa principal (0) segue o plano `1 > 2 > 3 > 4`.
+**Tarefas e subtarefas.** A tarefa principal (0) segue o plano `1 > 2 > 3 > 4` no diagrama, com a ressalva de que a etapa 4 é condicional e se aplica apenas ao papel LA (locatário com necessidade de acessibilidade), conforme o mapa de objetivos.
 
 - **1. Criar login e senha** (`1.1 > 1.2 > 1.3 > 1.4 > 1.5`): o usuário escolhe o método de acesso (1.1: e-mail, número de celular ou conta Google), informa os dados de acesso correspondentes (1.2), verifica a identidade recebendo e inserindo um código (1.3), define o nome de usuário (1.4) e define a senha, digitando e confirmando (1.5).
 - **2. Adicionar dados complementares** (`(2.1 + ... + 2.9) > 2.10`): informa nome completo, CPF, documento de identificação (RG ou CNH), data de nascimento, telefone de contato, endereço atual, ocupação e renda mensal, e adiciona uma foto de perfil (opcional). Em seguida, salva os dados (2.10).
@@ -117,6 +117,8 @@ Os HTAs (Hierarchical Task Analysis) modelam as tarefas dos usuários a partir d
 - **7. Informar valor total mensal e o que está incluso** (`7.1 > 7.2`): insere o valor total mensal (7.1) e informa custos adicionais e condições (7.2), que incluem os encargos mensais (condomínio, IPTU) e a garantia e condições (caução, regras de reajuste).
 - **8. Publicar anúncio do imóvel disponível.**
 
+O sub-objetivo *Atualizar disponibilidade do imóvel*, presente no mapa, não integra este fluxo linear de cadastro inicial por ser uma ação recorrente realizada após a publicação do anúncio, na gestão de imóveis.
+
 **Decisões envolvidas.** As fotos podem vir da galeria ou da câmera (5.1.1 ou 5.1.2). O locador decide se mostra ou não a localização exata (4.2), e quais medidas de segurança e custos adicionais informar.
 
 **Contribuição para o fluxo.** O anúncio publicado é o que o estudante encontra no HTA 4: a localização (4) alimenta a checagem no mapa (HTA 4, nó 2), o tipo, as dimensões e as comodidades (3) aparecem nas características do imóvel (HTA 4, nó 3.2), o valor (7) é consultado em HTA 4, nó 3.3, e as fotos (5) são vistas em HTA 4, nó 3.4. As medidas de segurança atendem a um critério central dos estudantes (segurança foi citada por 11 de 13 participantes da pesquisa) e à prática dos locadores de manter câmeras nas áreas comuns, relatada no briefing.
@@ -131,7 +133,7 @@ Os HTAs (Hierarchical Task Analysis) modelam as tarefas dos usuários a partir d
 | Informar medidas de segurança | LO | 6 |
 | Informar valor total mensal e o que está incluso | LO | 7 |
 | Publicar anúncio de imóvel disponível | LO | 8 |
-| Atualizar disponibilidade do imóvel | LO | Não detalhado neste HTA (ver pontos a validar) |
+| Atualizar disponibilidade do imóvel | LO | Ação recorrente após a publicação (gestão de imóveis, fora do fluxo linear de cadastro inicial) |
 
 ---
 
@@ -206,4 +208,3 @@ Os HTAs (Hierarchical Task Analysis) modelam as tarefas dos usuários a partir d
 | Contactar o locador através do chat | L LA | 2 |
 | Agendar visita ao imóvel | L LA | 3 |
 | Consultar status do processo | L LA | 4 |
-
