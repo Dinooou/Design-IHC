@@ -168,12 +168,3 @@ Modela o caminho do estudante, a partir de um anúncio, do interesse no imóvel 
 - **Agendamento de visita.** Em sequência, o usuário escolhe a modalidade da visita (XOR: presencial ou virtual por vídeo), o sistema exibe as datas e os horários disponíveis, o usuário seleciona uma data e um horário e confirma a solicitação. Ao enviar a solicitação (**u: enviar solicitação**), uma data ou horário indisponível devolve o fluxo à cena. Com a visita agendada com sucesso, segue para o status do processo.
 - **Status do processo.** Em sequência, o usuário acessa a área de solicitações de aluguel, o sistema exibe a situação atual do processo e o usuário verifica a situação, escolhendo entre acompanhar a aprovação da visita ou da proposta e prosseguir para a assinatura do contrato (XOR). O usuário sai (**u: sair**), e a interação termina.
 
----
-
-## Pontos a validar
-
-1. **Dados dos perfis:** os diagramas de criação do perfil incluem ocupação, renda mensal, documento de identificação e endereço (locatário) e dados bancários (locador), que não foram testados na pesquisa. Não preveem a comprovação de estudante nem o contato de familiar opcional previstos na metamensagem.
-2. **Conta Google:** no MoLIC, a conta Google autorizada vai direto para a definição de nome de usuário e senha, enquanto o HTA 1 mantém a verificação de identidade para todos os métodos de acesso.
-3. **Exigências do cadastro do imóvel:** o diagrama exige ao menos uma foto e ao menos um item de segurança para prosseguir. A exigência de item de segurança pode impedir o anúncio de imóveis sem câmeras, cerca elétrica ou portaria.
-4. **Disponibilidade e o que está incluso:** o diagrama de cadastro não tem uma cena para atualizar a disponibilidade do imóvel nem para informar o que está incluso no valor (água, energia e internet), embora o mapa de objetivos e a metamensagem os mencionem.
-5. **Confirmar locação:** o diagrama de aluguel termina em "prosseguir para a assinatura do contrato", e o objetivo "Confirmar locação junto ao locatário" ainda não tem diagrama próprio.
